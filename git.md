@@ -19,3 +19,6 @@
 
 5. Hverjir eru helstu kostir við að nota GIT?
     * helsti kosturinn er að það er hægt að brancha
+
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    * alltaf þegar þu savear
