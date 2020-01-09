@@ -22,3 +22,7 @@
 
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     * alltaf þegar þu savear
+
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    * working directory - það er vinnuskrá
+    * Staging Area - það er hluturinn sem gerist áður en commit
