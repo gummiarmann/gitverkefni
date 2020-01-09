@@ -17,3 +17,5 @@
 4. Hvað er útgáfustýring (Version Control)?
      * system sem recordar breitingar á skrám
 
+5. Hverjir eru helstu kostir við að nota GIT?
+    * helsti kosturinn er að það er hægt að brancha
