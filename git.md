@@ -16,3 +16,4 @@
 
 4. Hvað er útgáfustýring (Version Control)?
      * system sem recordar breitingar á skrám
+
